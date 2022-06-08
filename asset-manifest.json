@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wojwozniak.github.io/tsx-drum-machine/static/css/main.2c1a53e7.css",
+    "main.js": "/wojwozniak.github.io/tsx-drum-machine/static/js/main.f4bb9f54.js",
+    "index.html": "/wojwozniak.github.io/tsx-drum-machine/index.html",
+    "main.2c1a53e7.css.map": "/wojwozniak.github.io/tsx-drum-machine/static/css/main.2c1a53e7.css.map",
+    "main.f4bb9f54.js.map": "/wojwozniak.github.io/tsx-drum-machine/static/js/main.f4bb9f54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c1a53e7.css",
+    "static/js/main.f4bb9f54.js"
+  ]
+}
